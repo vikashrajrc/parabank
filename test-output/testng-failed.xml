@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Class Execution Order(failed)">
+    <classes>
+      <class name="testCases.TC01_To_Verify_Login">
+        <methods>
+          <include name="start"/>
+          <include name="to_Verify_Login"/>
+          <include name="stop"/>
+        </methods>
+      </class> <!-- testCases.TC01_To_Verify_Login -->
+      <class name="testCases.TC03_To_Verify_Transfer_Funds">
+        <methods>
+          <include name="start"/>
+          <include name="to_Verify_Transfer_Funds"/>
+          <include name="stop"/>
+        </methods>
+      </class> <!-- testCases.TC03_To_Verify_Transfer_Funds -->
+    </classes>
+  </test> <!-- Class Execution Order(failed) -->
+</suite> <!-- Failed suite [Suite] -->

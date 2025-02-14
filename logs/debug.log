@@ -1,0 +1,417 @@
+2025-02-15 00:25:10,304 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 00:25:10,405 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 00:25:10,416 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 00:25:16,211 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 00:25:17,456 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 00:25:24,643 [main] INFO testCases.TC01_To_Verify_Login - ->>> testcase is started <<<-
+2025-02-15 00:25:28,799 [main] INFO testCases.TC01_To_Verify_Login - url opened
+2025-02-15 00:25:28,917 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - username and pass entered successfully
+2025-02-15 00:25:29,823 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - clicked on login button
+2025-02-15 00:25:29,843 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - login msg verified
+2025-02-15 00:25:34,941 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - ->>> testcase is started <<<-
+2025-02-15 00:25:39,148 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - url opened
+2025-02-15 00:25:39,259 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - username and pass entered successfully for fund transfer
+2025-02-15 00:25:40,146 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - clicked on login button
+2025-02-15 00:25:40,506 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - click on transfer fund link in the left menu
+2025-02-15 00:25:41,546 [TestNG-test-Test3-1] WARN testCases.TC03_To_Verify_Transfer_Funds - amount entered
+2025-02-15 00:25:41,610 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - transfer button clicked
+2025-02-15 00:25:42,650 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - tramsfer msg verified
+2025-02-15 00:27:48,368 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 00:27:48,474 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 00:27:48,484 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 00:27:53,031 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 00:27:54,333 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 00:28:01,520 [main] INFO testCases.TC01_To_Verify_Login - ->>> testcase is started <<<-
+2025-02-15 00:28:05,580 [main] INFO testCases.TC01_To_Verify_Login - url opened
+2025-02-15 00:28:05,716 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - username and pass entered successfully
+2025-02-15 00:28:06,594 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - clicked on login button
+2025-02-15 00:28:06,613 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - login msg verified
+2025-02-15 00:28:11,712 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - ->>> testcase is started <<<-
+2025-02-15 00:28:16,020 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - url opened
+2025-02-15 00:28:16,130 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - username and pass entered successfully for fund transfer
+2025-02-15 00:28:16,924 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - clicked on login button
+2025-02-15 00:28:17,788 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - click on transfer fund link in the left menu
+2025-02-15 00:28:18,839 [TestNG-test-Test3-1] WARN testCases.TC03_To_Verify_Transfer_Funds - amount entered
+2025-02-15 00:28:18,903 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - transfer button clicked
+2025-02-15 00:28:19,942 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - tramsfer msg verified
+2025-02-15 00:38:36,150 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/var/folders/pm/b3r22brd1rq87vvgffklcqh80000gn/T/testng-eclipse--2083398229/testng-customsuite.xml"
+2025-02-15 00:38:36,228 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,229 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,230 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,230 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,232 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-02-15 00:38:36,235 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-02-15 00:38:36,236 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,236 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,236 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,236 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,237 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,237 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,237 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,237 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,237 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,237 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,239 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,239 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,239 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,239 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,240 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,240 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,240 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,241 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,241 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,241 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,242 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,242 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,242 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:38:36,242 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:38:36,245 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /private/var/folders/pm/b3r22brd1rq87vvgffklcqh80000gn/T/testng-eclipse--2083398229/testng-customsuite.xml
+
+2025-02-15 00:38:36,255 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 00:38:42,620 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 00:38:42,629 [main] INFO org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-02-15 00:38:50,592 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@52fc5eb1: 25 ms
+2025-02-15 00:38:50,597 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1763992e: 4 ms
+2025-02-15 00:38:50,601 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6ceb7b5e: 4 ms
+2025-02-15 00:38:50,604 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5f404594: 3 ms
+2025-02-15 00:38:50,607 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3a4ba480: 3 ms
+2025-02-15 00:38:50,607 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@27b71f50: 0 ms
+2025-02-15 00:39:30,974 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/var/folders/pm/b3r22brd1rq87vvgffklcqh80000gn/T/testng-eclipse--27392052/testng-customsuite.xml"
+2025-02-15 00:39:31,052 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,053 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,053 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,053 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,057 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-02-15 00:39:31,060 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-02-15 00:39:31,061 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,061 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,061 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,062 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,062 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,062 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,062 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,062 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,062 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,062 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,063 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,063 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,063 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,063 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,065 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,065 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,066 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,066 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,066 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,067 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,067 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,067 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,067 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:39:31,067 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:39:31,070 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /private/var/folders/pm/b3r22brd1rq87vvgffklcqh80000gn/T/testng-eclipse--27392052/testng-customsuite.xml
+
+2025-02-15 00:39:31,081 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 00:39:35,617 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 00:39:35,629 [main] INFO org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-02-15 00:39:41,574 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@52fc5eb1: 27 ms
+2025-02-15 00:39:41,578 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1763992e: 4 ms
+2025-02-15 00:39:41,582 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6ceb7b5e: 4 ms
+2025-02-15 00:39:41,584 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5f404594: 2 ms
+2025-02-15 00:39:41,588 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3a4ba480: 4 ms
+2025-02-15 00:39:41,588 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@27b71f50: 0 ms
+2025-02-15 00:42:17,450 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/var/folders/pm/b3r22brd1rq87vvgffklcqh80000gn/T/testng-eclipse--645482152/testng-customsuite.xml"
+2025-02-15 00:42:17,530 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,531 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,532 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,532 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,534 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-02-15 00:42:17,537 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-02-15 00:42:17,538 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,538 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,538 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,538 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,539 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,539 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,539 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,539 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,539 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,539 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,541 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,541 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,541 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,541 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,542 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,542 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,543 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,543 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,543 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,544 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,544 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,544 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,544 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:42:17,544 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:42:17,547 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /private/var/folders/pm/b3r22brd1rq87vvgffklcqh80000gn/T/testng-eclipse--645482152/testng-customsuite.xml
+
+2025-02-15 00:42:17,558 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 00:42:22,575 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 00:42:22,584 [main] INFO org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-02-15 00:42:29,225 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@52fc5eb1: 26 ms
+2025-02-15 00:42:29,229 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1763992e: 4 ms
+2025-02-15 00:42:29,233 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6ceb7b5e: 4 ms
+2025-02-15 00:42:29,236 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5f404594: 3 ms
+2025-02-15 00:42:29,238 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3a4ba480: 2 ms
+2025-02-15 00:42:29,238 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@27b71f50: 0 ms
+2025-02-15 00:43:08,964 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/var/folders/pm/b3r22brd1rq87vvgffklcqh80000gn/T/testng-eclipse--1841605186/testng-customsuite.xml"
+2025-02-15 00:43:09,041 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,043 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,043 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,043 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,046 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-02-15 00:43:09,049 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-02-15 00:43:09,050 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,050 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,050 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,050 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,051 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,051 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,051 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,051 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,051 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,051 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,052 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,052 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,052 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,052 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,053 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,053 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,054 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,054 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,054 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,054 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,055 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,055 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,055 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 00:43:09,055 [main] INFO org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 00:43:09,058 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /private/var/folders/pm/b3r22brd1rq87vvgffklcqh80000gn/T/testng-eclipse--1841605186/testng-customsuite.xml
+
+2025-02-15 00:43:09,070 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 00:43:11,317 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 00:43:11,329 [main] INFO org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-02-15 00:43:15,428 [main] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 00:43:17,469 [main] INFO testCases.TC02_To_Verify_Registration - registration msg verified
+2025-02-15 00:43:22,635 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@31ddd4a4: 27 ms
+2025-02-15 00:43:22,636 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1a5f7e7c: 1 ms
+2025-02-15 00:43:22,639 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1ecfcbc9: 3 ms
+2025-02-15 00:43:22,642 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@388b401d: 2 ms
+2025-02-15 00:43:22,643 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4a7761b1: 1 ms
+2025-02-15 00:43:22,643 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3e850122: 0 ms
+2025-02-15 00:48:56,226 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 00:48:56,330 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 00:48:56,342 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 00:49:01,912 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 00:49:03,575 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 00:49:05,616 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - registration msg verified
+2025-02-15 00:49:10,759 [main] INFO testCases.TC01_To_Verify_Login - ->>> testcase is started <<<-
+2025-02-15 00:49:15,006 [main] INFO testCases.TC01_To_Verify_Login - url opened
+2025-02-15 00:49:15,119 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - username and pass entered successfully
+2025-02-15 00:49:16,043 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - clicked on login button
+2025-02-15 00:49:21,168 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - ->>> testcase is started <<<-
+2025-02-15 00:49:25,470 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - url opened
+2025-02-15 00:49:25,605 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - username and pass entered successfully for fund transfer
+2025-02-15 00:49:26,505 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - clicked on login button
+2025-02-15 00:49:26,861 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - click on transfer fund link in the left menu
+2025-02-15 00:49:27,924 [TestNG-test-Test3-1] WARN testCases.TC03_To_Verify_Transfer_Funds - amount entered
+2025-02-15 00:49:27,985 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - transfer button clicked
+2025-02-15 00:49:29,024 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - tramsfer msg verified
+2025-02-15 00:51:38,797 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 00:51:38,903 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 00:51:38,914 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 00:51:44,245 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 00:51:45,525 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 00:51:47,567 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - registration msg verified
+2025-02-15 00:51:52,713 [main] INFO testCases.TC01_To_Verify_Login - ->>> testcase is started <<<-
+2025-02-15 00:51:56,900 [main] INFO testCases.TC01_To_Verify_Login - url opened
+2025-02-15 00:51:57,037 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - username and pass entered successfully
+2025-02-15 00:51:58,248 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - clicked on login button
+2025-02-15 00:51:58,269 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - login msg verified
+2025-02-15 00:52:03,363 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - ->>> testcase is started <<<-
+2025-02-15 00:52:05,337 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - url opened
+2025-02-15 00:52:07,902 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - username and pass entered successfully for fund transfer
+2025-02-15 00:52:08,820 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - clicked on login button
+2025-02-15 00:52:09,249 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - click on transfer fund link in the left menu
+2025-02-15 00:52:10,289 [TestNG-test-Test3-1] WARN testCases.TC03_To_Verify_Transfer_Funds - amount entered
+2025-02-15 00:52:10,354 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - transfer button clicked
+2025-02-15 00:52:11,393 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - tramsfer msg verified
+2025-02-15 00:53:49,959 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 00:53:50,064 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 00:53:50,074 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 00:53:56,647 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 00:53:57,889 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 00:53:59,929 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - registration msg verified
+2025-02-15 00:54:05,071 [main] INFO testCases.TC01_To_Verify_Login - ->>> testcase is started <<<-
+2025-02-15 00:54:09,301 [main] INFO testCases.TC01_To_Verify_Login - url opened
+2025-02-15 00:54:09,440 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - username and pass entered successfully
+2025-02-15 00:54:10,566 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - clicked on login button
+2025-02-15 00:54:10,585 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - login msg verified
+2025-02-15 00:54:15,687 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - ->>> testcase is started <<<-
+2025-02-15 00:54:19,817 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - url opened
+2025-02-15 00:54:19,951 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - username and pass entered successfully for fund transfer
+2025-02-15 00:54:20,782 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - clicked on login button
+2025-02-15 00:54:21,237 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - click on transfer fund link in the left menu
+2025-02-15 00:54:22,278 [TestNG-test-Test3-1] WARN testCases.TC03_To_Verify_Transfer_Funds - amount entered
+2025-02-15 00:54:22,342 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - transfer button clicked
+2025-02-15 00:54:23,381 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - tramsfer msg verified
+2025-02-15 00:56:05,332 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 00:56:05,436 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 00:56:05,446 [main] INFO testCases.TC01_To_Verify_Login - ->>> testcase is started <<<-
+2025-02-15 00:56:10,603 [main] INFO testCases.TC01_To_Verify_Login - url opened
+2025-02-15 00:56:10,760 [TestNG-test-Test1-1] INFO testCases.TC01_To_Verify_Login - username and pass entered successfully
+2025-02-15 00:56:11,615 [TestNG-test-Test1-1] INFO testCases.TC01_To_Verify_Login - clicked on login button
+2025-02-15 00:56:12,394 [TestNG-test-Test1-2] INFO testCases.TC01_To_Verify_Login - username and pass entered successfully for fund transfer
+2025-02-15 00:56:12,854 [TestNG-test-Test1-2] INFO testCases.TC01_To_Verify_Login - clicked on login button
+2025-02-15 00:56:14,011 [TestNG-test-Test1-3] INFO testCases.TC01_To_Verify_Login - netered all details for registration
+2025-02-15 00:56:16,055 [TestNG-test-Test1-3] INFO testCases.TC01_To_Verify_Login - registration msg verified
+2025-02-15 00:56:55,314 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 00:56:55,417 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 00:56:55,428 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 00:57:00,001 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 00:57:01,750 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 00:57:03,792 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - registration msg verified
+2025-02-15 00:57:27,117 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 00:57:27,219 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 00:57:27,230 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 00:57:31,973 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 00:57:33,277 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 00:57:35,318 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - registration msg verified
+2025-02-15 01:00:51,537 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 01:00:51,646 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 01:00:51,657 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 01:00:57,011 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 01:00:59,561 [TestNG-test-Class Execution Order-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 01:01:01,603 [TestNG-test-Class Execution Order-1] INFO testCases.TC02_To_Verify_Registration - registration msg verified
+2025-02-15 01:01:48,778 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 01:01:48,881 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 01:01:48,893 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 01:01:52,716 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 01:01:54,500 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 01:01:56,543 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - registration msg verified
+2025-02-15 01:02:01,688 [main] INFO testCases.TC01_To_Verify_Login - ->>> testcase is started <<<-
+2025-02-15 01:02:06,739 [main] INFO testCases.TC01_To_Verify_Login - url opened
+2025-02-15 01:02:06,875 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - username and pass entered successfully
+2025-02-15 01:02:08,062 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - clicked on login button
+2025-02-15 01:02:08,081 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - login msg verified
+2025-02-15 01:02:13,182 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - ->>> testcase is started <<<-
+2025-02-15 01:02:17,286 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - url opened
+2025-02-15 01:02:17,419 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - username and pass entered successfully for fund transfer
+2025-02-15 01:02:18,198 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - clicked on login button
+2025-02-15 01:02:19,041 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - click on transfer fund link in the left menu
+2025-02-15 01:02:20,088 [TestNG-test-Test3-1] WARN testCases.TC03_To_Verify_Transfer_Funds - amount entered
+2025-02-15 01:02:20,151 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - transfer button clicked
+2025-02-15 01:02:21,190 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - tramsfer msg verified
+2025-02-15 01:21:55,461 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 01:21:55,565 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 01:21:55,577 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 01:21:58,995 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 01:22:02,630 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 01:22:04,672 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - registration msg verified
+2025-02-15 01:22:10,112 [main] INFO testCases.TC01_To_Verify_Login - ->>> testcase is started <<<-
+2025-02-15 01:22:12,100 [main] INFO testCases.TC01_To_Verify_Login - url opened
+2025-02-15 01:22:14,425 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - username and pass entered successfully
+2025-02-15 01:22:18,957 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - clicked on login button
+2025-02-15 01:22:18,976 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - login msg verified
+2025-02-15 01:22:24,108 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - ->>> testcase is started <<<-
+2025-02-15 01:22:26,025 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - url opened
+2025-02-15 01:22:28,999 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - username and pass entered successfully for fund transfer
+2025-02-15 01:22:29,912 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - clicked on login button
+2025-02-15 01:22:30,268 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - click on transfer fund link in the left menu
+2025-02-15 01:22:31,310 [TestNG-test-Test3-1] WARN testCases.TC03_To_Verify_Transfer_Funds - amount entered
+2025-02-15 01:22:31,374 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - transfer button clicked
+2025-02-15 01:22:32,414 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - tramsfer msg verified
+2025-02-15 01:24:36,390 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 01:24:36,498 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 01:24:36,510 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 01:24:41,094 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 01:24:42,368 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 01:24:44,411 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - registration msg verified
+2025-02-15 01:24:49,805 [main] INFO testCases.TC01_To_Verify_Login - ->>> testcase is started <<<-
+2025-02-15 01:24:53,485 [main] INFO testCases.TC01_To_Verify_Login - url opened
+2025-02-15 01:24:53,610 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - username and pass entered successfully
+2025-02-15 01:24:54,808 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - clicked on login button
+2025-02-15 01:24:54,826 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - login msg verified
+2025-02-15 01:24:59,951 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - ->>> testcase is started <<<-
+2025-02-15 01:25:04,167 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - url opened
+2025-02-15 01:25:04,297 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - username and pass entered successfully for fund transfer
+2025-02-15 01:25:05,153 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - clicked on login button
+2025-02-15 01:25:05,585 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - click on transfer fund link in the left menu
+2025-02-15 01:25:06,624 [TestNG-test-Test3-1] WARN testCases.TC03_To_Verify_Transfer_Funds - amount entered
+2025-02-15 01:25:06,688 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - transfer button clicked
+2025-02-15 01:25:07,728 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - tramsfer msg verified
+2025-02-15 01:26:04,230 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 01:26:04,333 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 01:26:04,345 [main] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 01:26:09,055 [main] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 01:26:10,844 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 01:26:12,885 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - registration msg verified
+2025-02-15 01:26:18,313 [main] INFO testCases.TC01_To_Verify_Login - ->>> testcase is started <<<-
+2025-02-15 01:26:22,675 [main] INFO testCases.TC01_To_Verify_Login - url opened
+2025-02-15 01:26:22,794 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - username and pass entered successfully
+2025-02-15 01:26:25,725 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - clicked on login button
+2025-02-15 01:26:25,755 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - login msg verified
+2025-02-15 01:26:30,923 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - ->>> testcase is started <<<-
+2025-02-15 01:26:35,221 [main] INFO testCases.TC03_To_Verify_Transfer_Funds - url opened
+2025-02-15 01:26:35,338 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - username and pass entered successfully for fund transfer
+2025-02-15 01:26:36,190 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - clicked on login button
+2025-02-15 01:26:36,537 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - click on transfer fund link in the left menu
+2025-02-15 01:26:37,600 [TestNG-test-Test3-1] WARN testCases.TC03_To_Verify_Transfer_Funds - amount entered
+2025-02-15 01:26:37,664 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - transfer button clicked
+2025-02-15 01:26:38,703 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - tramsfer msg verified
+2025-02-15 01:27:33,310 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 01:27:33,412 [main] INFO org.testng.internal.Utils - [TestNG] Running:
+  /Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml
+
+2025-02-15 01:27:33,430 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 01:27:38,841 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 01:27:40,034 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 01:27:42,077 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - registration msg verified
+2025-02-15 01:27:47,502 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - ->>> testcase is started <<<-
+2025-02-15 01:27:49,512 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - url opened
+2025-02-15 01:27:51,959 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - username and pass entered successfully
+2025-02-15 01:27:53,193 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - clicked on login button
+2025-02-15 01:27:53,212 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - login msg verified
+2025-02-15 01:27:58,376 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - ->>> testcase is started <<<-
+2025-02-15 01:28:02,002 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - url opened
+2025-02-15 01:28:02,120 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - username and pass entered successfully for fund transfer
+2025-02-15 01:28:03,019 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - clicked on login button
+2025-02-15 01:28:03,865 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - click on transfer fund link in the left menu
+2025-02-15 01:28:04,911 [TestNG-test-Test3-1] WARN testCases.TC03_To_Verify_Transfer_Funds - amount entered
+2025-02-15 01:28:04,975 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - transfer button clicked
+2025-02-15 01:28:06,014 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - tramsfer msg verified
