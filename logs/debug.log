@@ -415,3 +415,21 @@
 2025-02-15 01:28:04,911 [TestNG-test-Test3-1] WARN testCases.TC03_To_Verify_Transfer_Funds - amount entered
 2025-02-15 01:28:04,975 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - transfer button clicked
 2025-02-15 01:28:06,014 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - tramsfer msg verified
+2025-02-15 01:59:37,277 [main] DEBUG org.testng.TestNG - suiteXmlPath: "/Users/vikash/eclipse-workspace/paraBankAutomation/testng.xml"
+2025-02-15 01:59:37,384 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - ->>> testcase is started <<<-
+2025-02-15 01:59:43,807 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - url opened
+2025-02-15 01:59:45,687 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - netered all details for registration
+2025-02-15 01:59:47,729 [TestNG-test-Test1-1] INFO testCases.TC02_To_Verify_Registration - registration msg verified
+2025-02-15 01:59:53,182 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - ->>> testcase is started <<<-
+2025-02-15 01:59:57,626 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - url opened
+2025-02-15 01:59:57,738 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - username and pass entered successfully
+2025-02-15 01:59:58,944 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - clicked on login button
+2025-02-15 01:59:58,962 [TestNG-test-Test2-1] INFO testCases.TC01_To_Verify_Login - login msg verified
+2025-02-15 02:00:04,116 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - ->>> testcase is started <<<-
+2025-02-15 02:00:08,324 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - url opened
+2025-02-15 02:00:08,451 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - username and pass entered successfully for fund transfer
+2025-02-15 02:00:09,292 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - clicked on login button
+2025-02-15 02:00:09,641 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - click on transfer fund link in the left menu
+2025-02-15 02:00:10,680 [TestNG-test-Test3-1] WARN testCases.TC03_To_Verify_Transfer_Funds - amount entered
+2025-02-15 02:00:10,748 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - transfer button clicked
+2025-02-15 02:00:11,787 [TestNG-test-Test3-1] INFO testCases.TC03_To_Verify_Transfer_Funds - tramsfer msg verified

@@ -1,0 +1,9 @@
+/Users/vikash/eclipse-workspace/paraBankAutomation/src/test/java/baseObjects/BasePageObjects.java
+/Users/vikash/eclipse-workspace/paraBankAutomation/src/test/java/baseTest/BaseTestClass.java
+/Users/vikash/eclipse-workspace/paraBankAutomation/src/test/java/pageObjects/DashboardPage.java
+/Users/vikash/eclipse-workspace/paraBankAutomation/src/test/java/pageObjects/HomePage.java
+/Users/vikash/eclipse-workspace/paraBankAutomation/src/test/java/pageObjects/RegisterPage.java
+/Users/vikash/eclipse-workspace/paraBankAutomation/src/test/java/pageObjects/TransferFundPage.java
+/Users/vikash/eclipse-workspace/paraBankAutomation/src/test/java/testCases/TC01_To_Verify_Login.java
+/Users/vikash/eclipse-workspace/paraBankAutomation/src/test/java/testCases/TC02_To_Verify_Registration.java
+/Users/vikash/eclipse-workspace/paraBankAutomation/src/test/java/testCases/TC03_To_Verify_Transfer_Funds.java
